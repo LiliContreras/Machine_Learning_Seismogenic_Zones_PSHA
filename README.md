@@ -19,6 +19,7 @@ Main: contains both main scripts and data
 
    Decompress VS30_MEX.zip
 3. **Run the program**
+
    -Seismogenic_zones_HDBSCAN.py: To build seismic zones
    
    -Hazard_Mexico_city.py: Estimates seismic hazard for CCUT in Mexico City
