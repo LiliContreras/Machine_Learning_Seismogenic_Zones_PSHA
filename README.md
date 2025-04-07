@@ -14,8 +14,11 @@ Main: contains both main scripts and data
 
 1. **Download or clone the repository**  
    Click on the green `Code` button and choose `Download ZIP`, or use Git
+   
    Decompress repository
+
    Decompress VS30_MEX.zip
 3. **Run the program**
    -Seismogenic_zones_HDBSCAN.py: To build seismic zones
+   
    -Hazard_Mexico_city.py: Estimates seismic hazard for CCUT in Mexico City
